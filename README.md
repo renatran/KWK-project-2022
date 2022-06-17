@@ -2,6 +2,9 @@
 Worked with 4 other teammates from the KWK summer program on web designs and development.
 --> Topic: Sustainable thrifting- a safer, cheapter, and kinder way to treat the earth, while dressing fashionably!
 
+# link 
+https://thriftaholic.rylie-yzabelyza.repl.co/
+
 # features
    * Information Page with Trivia Quiz
    * A space to write your review
